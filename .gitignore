@@ -1,0 +1,42 @@
+﻿# Secrets
+.env
+
+# Replit junk
+.config/
+.replit
+.upm/
+.antigravity/
+.agents/
+attached_assets/
+skills-lock.json
+replit.md
+
+# Build outputs
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+ctrader-compiler/CTraderBot/bin/
+ctrader-compiler/CTraderBot/obj/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Archives
+*.zip
+*.tar.gz
+*.cbotset
+
+# IDE
+*.algo.metadata
+.DS_Store
+server/public
+vite.config.ts.*
+
+# Gradle
+.gradle/
